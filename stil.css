@@ -1,0 +1,62 @@
+/***** RESET *****/
+html,body, div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres,big,cite,del,dfn,em,font,img, ins,kbd,q,s,samp,
+smal,strike,strong,sub,sup,tt,var,b,u,i, center,dl,dt,dd,ol,ul, l, fieldset, form, label, legend,table, caption,tbody, tfoot, thead,tr 
+{
+margin:0;
+padding:0;
+border:0;
+outline:0;
+/*font-size:100½;
+vertical-align:baseline;*/
+}
+html,body {height:100%;}
+body {line-height:1; }
+ol,ul { list-style:none;}
+blockquote, q {quotes:none;}
+blockquote:before, blockquote:after, q:before, q:after { content:'';content:none;}
+table { border-collapse: collapse; border-spacing:;} /* tables still need 'cellspacing="0"' int the markup */
+textarea { overflow:auto;}
+/***** RESET *****/
+
+.hepsi{ width:760px; height:auto; margin:10px auto;}
+.menu{ width:400px; height:50px; margin:0 0 0 11px;}
+.ust{ width:760px; height:90px; padding:60px 0 0 0; background:url(images/843368ee-c17f-41d6-8e7e-9c65e7bd85c5.jpg) no-repeat; }
+.ortasol{ width:405px; height:302px; padding:20px 0 0 10px;  font:12px tahoma; color:#999; float:left;}
+.ortasag{ width:325px; height:322px;  font:12px tahoma; color:#999; float:left; margin:0 0 0 20px;}
+.altsol{ width:435px; height:68px; font:11px tahoma;color:#ccc;float:left; border-top:1px solid #ccc; padding:30px 0 0 0;}
+.altsag{ width:325px; height:68px; border-top:1px solid #ccc; float:left; padding:30px 0 0 0; font:11px tahoma; color:#ccc;}
+
+.menu ul li{ float:left;} 
+
+.menu ul li a{ display:block; height:50px; text-indent:-2000px; }
+.menu ul li#about a{ width:71px; background:url(images/63a03af8-8050-4b0a-835e-d5df426e0515.jpg) 0 -100px no-repeat; }
+.menu ul li#servıces a{ width:84px; background:url(images/WhatsApp%20Image%202021-12-25%20at%2014.56.06.jpeg) no-repeat; }
+.menu ul li#porto a{ width:95px; background:url(images/porto.jpeg) 0 0 no-repeat; }
+.menu ul li#concact a{ width:106px; background:url(images/1fe31932-c94c-4378-bee4-a964def00fa3.jpg) no-repeat; }
+
+.menu ul li#servıces a:hover{ background:url(images/WhatsApp%20Image%202021-12-25%20at%2014.56.06.jpeg) 0 -100px no-repeat; }
+.menu ul li#porto a:hover{ background:url(images/porto.jpeg) 0 -100px no-repeat; }
+.menu ul li#concact a:hover{ background:url(images/1fe31932-c94c-4378-bee4-a964def00fa3.jpg) 0 -100px no-repeat; }
+
+.ustic{ width:250px; height:30px;  background:#000; margin:0 0 0 510px; font:20px verdena; color:#FFF; text-align:center; border-radius:6px 0 0 6px;}
+.yazi1{ font:23px verdena; color:#fff;}
+.yazi2{ font: bold 17px tahoma; color:#f60;}
+.yazi3{ font: bold 13px tahoma; color:#888;}
+.yazi4{ font:21px tahoma; color:#c95e4e; text-transform:uppercase;}
+.yazi5{ font: bold 11px tahoma; color:#d36818; }
+.altsag a{ font:11px tahoma; color:#ccc; text-decoration:none;}
+.altsag a:hover{ color:#d36818; text-decoration:underline;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
